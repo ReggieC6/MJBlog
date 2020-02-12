@@ -1,0 +1,9 @@
+body{
+    background: #e9eaed;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.App{
+    width: 90%;
+    margin: 0 auto;    
+}
